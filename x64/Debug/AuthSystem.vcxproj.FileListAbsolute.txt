@@ -1,6 +1,0 @@
-D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.vcxproj.AssemblyReference.cache
-D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.LoginForm.resources
-D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.vcxproj.GenerateResource.cache
-D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.exe
-D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.Dashboard.resources
-D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.RegisterForm.resources
