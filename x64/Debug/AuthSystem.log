@@ -1,0 +1,8 @@
+﻿  RegisterForm.cpp
+D:\Edu\Threads\AuthSystem\RegisterForm.h(277,21): warning C4101: error: неиспользованная локальная переменная
+  main.cpp
+D:\Edu\Threads\AuthSystem\LoginForm.h(206,21): warning C4101: error: неиспользованная локальная переменная
+D:\Edu\Threads\AuthSystem\RegisterForm.h(277,21): warning C4101: error: неиспользованная локальная переменная
+  Создание кода...
+  Dashboard.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  AuthSystem.vcxproj -> D:\Edu\Threads\AuthSystem\x64\Debug\AuthSystem.exe
